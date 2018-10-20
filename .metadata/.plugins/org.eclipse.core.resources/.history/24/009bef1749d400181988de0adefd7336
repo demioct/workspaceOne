@@ -1,0 +1,14 @@
+springcloud=8086
+springcloud-peer1=8081
+springcloud-peer2=8082
+
+springcloudserver=8186
+springcloudserver2=8182
+
+springcloudclient=8280
+springcloudnode1=8281
+springcloudnode2=8282
+springcloudturbine=8286
+
+springcloud-zuul=8380
+springcloud-zuul2=8382

@@ -1,0 +1,11 @@
+computeSourcePath=true
+contextsDir=D\:\\software\\tomcat 7\\conf\\Catalina\\localhost
+eclipse.preferences.version=1
+fixTomcatHomeBug=fixed
+jvmClasspath=D%3A%5Csoftware%5Ctomcat+7%5Cbin%5Ctomcat-juli.jar;
+managerUrl=http\://localhost\:8080/manager
+projectsInSourcePath=demioct;
+tomcatConfigFile=D\:\\software\\tomcat 7\\conf\\server.xml
+tomcatDir=D\:\\software\\tomcat 7
+tomcatJRE=1497685613029
+tomcatVersion=tomcatV6

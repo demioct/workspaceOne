@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.oct.spring.before.Before.java&apos; to &apos;PersonServiceBean.java&apos;&#x0D;&#x0A;- Original project: &apos;spring&apos;&#x0D;&#x0A;- Original element: &apos;com.oct.spring.before.Before.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.oct.spring.before.PersonServiceBean.java&apos;" description="Rename compilation unit &apos;Before.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;com.oct.spring.before{Before.java" name="PersonServiceBean.java" references="false" stamp="1512897754263" version="1.0"/>
+</session>

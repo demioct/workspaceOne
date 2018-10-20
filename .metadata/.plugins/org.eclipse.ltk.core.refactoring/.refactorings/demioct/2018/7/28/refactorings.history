@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.JVM.Out.java&apos; to &apos;OutOfMemoryError.java&apos;&#x0D;&#x0A;- Original project: &apos;demioct&apos;&#x0D;&#x0A;- Original element: &apos;com.JVM.Out.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.JVM.OutOfMemoryError.java&apos;" description="Rename compilation unit &apos;Out.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;com.JVM{Out.java" name="OutOfMemoryError.java" references="false" stamp="1531229753690" version="1.0"/>
+</session>
